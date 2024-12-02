@@ -33,15 +33,26 @@ Network Merger and Implementation Plan (WGU-D82)
 ## Skills
 
 •	Cybersecurity Tools: SIEM (Splunk), IPS, EDR
+
 •	Network Analysis: Wireshark, Packet Capture Analysis
+
 •	Email Analysis 
+
 •	Vulnerability Scanning: Nessus
+
 •	Security Frameworks: RMF, NIST, Zero Trust Architecture
+
 •	Operating Systems: Windows, Linux
+
 •	Scripting & Automation: PowerShell, Python
+
 
 ## Certifications
 •	CompTIA Network+
+
 •	CompTIA Security+
+
 •	Security Blue Team Level 1
+
 •	CompTIA CySA+ in progress
+
