@@ -12,15 +12,22 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 Detection and Monitoring Lab
 
 •	Designed and implemented a virtualized lab network for vulnerability testing and threat detection, including configurations for Windows Server, Splunk (SIEM), Kali Linux, and Windows 10.
+
 •	Performed brute-force attacks and analyzed logs in Splunk to detect and respond to failed login attempts.
+
 •	Leveraged Atomic Red Team to generate telemetry for practicing MITRE ATT&CK techniques.
+
 •	Simulated real-world cyberattacks and responses, aligning with industry cybersecurity practices and frameworks.
+
 
 Network Merger and Implementation Plan (WGU-D82)
 
 •	Led the merger of two company networks, integrating Zero Trust Architecture and migrating infrastructure to Azure.
+
 •	Conducted vulnerability assessments and recommended security improvements, ensuring systems met necessary compliance standards.
+
 •	Implemented defense-in-depth strategies and deprecated unsupported hardware to align with best security practices.
+
 
 
 ## Skills
