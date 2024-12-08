@@ -23,7 +23,7 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 
 
 **Home Lab**
-Purchased dell optiplex 
+* Purchased dell optiplex 
 * installed proxmox hypervisor
 * installed windows 10 machine
 * installed windows server 
@@ -36,7 +36,7 @@ Purchased dell optiplex
   * utilized splunk for threat hunting to analyze the MITRE ATTACK framework steps including intial access, exceution,persistence, priviledge escalation,defense evasion and so forth.
  
 **Python Calculator**
-    * designed a basic calculator in python to accept user input and out answer 
+* designed a basic calculator in python to accept user input and out answer 
 
 
 
