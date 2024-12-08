@@ -9,7 +9,7 @@ I would really like to help companies protect themselves from attacks
 My studies have led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Projects
-Detection and Monitoring Lab
+**Detection and Monitoring Lab
 
 •	Designed and implemented a virtualized lab network for vulnerability testing and threat detection, including configurations for Windows Server, Splunk (SIEM), Kali Linux, and Windows 10.
 
@@ -20,7 +20,7 @@ Detection and Monitoring Lab
 •	Simulated real-world cyberattacks and responses, aligning with industry cybersecurity practices and frameworks.
 
 
-Network Merger and Implementation Plan (WGU-D82)
+**Network Merger and Implementation Plan (WGU-D82)
 
 •	Led the merger of two company networks, integrating Zero Trust Architecture and migrating infrastructure to Azure.
 
