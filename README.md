@@ -11,7 +11,7 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 ## Projects
 **Detection and Monitoring Lab**
 
-*Designed and implemented a virtualized lab network for vulnerability testing and threat detection, including configurations for Windows Server, Splunk (SIEM), Kali Linux, and Windows 10.
+* Designed and implemented a virtualized lab network for vulnerability testing and threat detection, including configurations for Windows Server, Splunk (SIEM), Kali Linux, and Windows 10.
 Performed brute-force attacks and analyzed logs in Splunk to detect and respond to failed login attempts.
 Leveraged Atomic Red Team to generate telemetry for practicing MITRE ATT&CK techniques.
 Simulated real-world cyberattacks and responses, aligning with industry cybersecurity practices and frameworks.
