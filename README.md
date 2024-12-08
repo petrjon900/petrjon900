@@ -11,15 +11,15 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 ## Projects
 **Detection and Monitoring Lab**
 
-•	Designed and implemented a virtualized home lab network for vulnerability testing and threat detection.
-•	Configured Windows Server, Splunk (SIEM), Kali Linux, and Windows 10 in the lab environment.
-•	Performed brute-force attacks using Kali Linux’s Crowbar and analyzed logs in Splunk to detect and respond to failed and successful login attempts.
+* 	Designed and implemented a virtualized home lab network for vulnerability testing and threat detection.
+* Configured Windows Server, Splunk (SIEM), Kali Linux, and Windows 10 in the lab environment.
+* Performed brute-force attacks using Kali Linux’s Crowbar and analyzed logs in Splunk to detect and respond to failed and successful login attempts.
 
 
 **Network Merger and Implementation Plan (WGU-D82)**
-•	Executed a comprehensive merger of two company networks, incorporating zero trust architecture and migrating infrastructure to Azure.
-•	Analyzed vulnerability scans and recommended security enhancements.
-•	Deprecated unsupported hardware and implemented defense-in-depth strategies.
+*	Executed a comprehensive merger of two company networks, incorporating zero trust architecture and migrating infrastructure to Azure.
+*	Analyzed vulnerability scans and recommended security enhancements.
+*	Deprecated unsupported hardware and implemented defense-in-depth strategies.
 
 
 **Home Lab**
