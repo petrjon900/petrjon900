@@ -21,7 +21,7 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 * After speaking with the engineer it was was found that this occured after updating the application however the email from the vendor was spoofed.
 * After logging into the affected server and taking a look into task manager it was found that a cryptominer was causing the high CPU usage. the attackers were using this server to mine cryptocurrency on their behalf.
 * Logged into the SIEM(Wazuh) and found the IP address and port number of the malicious traffic
-* On the affected server the attackers disabled defender reason why the application was detected. I went into group ploicy and renabled defender and turned on virus protect.
+* On the affected server the attackers disabled defender reason why the application wasnt detected. I went into group policy and renabled defender and turned on virus scanning and protection.
 * I ran a scan which picked up the XMRig miner and removed the application
 * I then went into the firewall and blocked traffic to and from the port the attackers were using to communicate
 * After remidiating the incident i suggested that a EDR solution be implemented  and more user training to spot phishing emails to prevent this from reoccuring 
