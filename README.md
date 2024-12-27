@@ -15,6 +15,17 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 * Configured Windows Server, Splunk (SIEM), Kali Linux, and Windows 10 in the lab environment.
 * Performed brute-force attacks using Kali Linux’s Crowbar and analyzed logs in Splunk to detect and respond to failed and successful login attempts.
 
+**Incident response lab(WGUD483)**
+
+* In this lab a engineer put in a ticket that the application server used for processing CAD images began to run slow and had high CPU and GPU usage. As the Security professional at this oraganization i was tasked with investigating this incident.
+* After speaking with the engineer it was was found that this occured after updating the application however the email from the vendor was spoofed.
+* After logging into the affected server and taking a look into task manager it was found that a cryptominer was causing the high CPU usage. the attackers were using this sever to mine crptocurrency on their behalf.
+* Logged into the SIEM(Wazuh) and found the IP address and port number of the malicious traffic
+* On the affected server the attackers disabled defender reason why the application was detected. I went into group ploicy and renabled defender and turned on virus protect.
+* I ran a scan which picked up the XMRig miner and removed the application
+* I then went into the firewall and blocked traffic to and from the port the attackers were using to communicate
+* After remidiating the incident i suggested that a EDR solution be implemented  and more user training to spot phishing emails to prevent this from reoccuring 
+
 
 **Network Merger and Implementation Plan (WGU-D82)**
 *	Executed a comprehensive merger of two company networks, incorporating zero trust architecture and migrating infrastructure to Azure.
