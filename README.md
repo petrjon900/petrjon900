@@ -70,5 +70,5 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 
 •	Security Blue Team Level 1
 
-•	CompTIA CySA+ in progress
+•	CompTIA CySA+
 
