@@ -61,6 +61,7 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 * Security Frameworks: RMF, NIST, Zero Trust Architecture
 * Operating Systems: Windows, Linux
 * Scripting & Automation: PowerShell, Python
+* Microsoft Entra, Defender, Sentinel 
 
 
 ## Certifications
@@ -71,4 +72,8 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 •	Security Blue Team Level 1
 
 •	CompTIA CySA+
+
+•	AZ-900
+
+
 
