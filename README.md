@@ -4,9 +4,9 @@
 I am a Cybersecurity graduate with strong interest in all things blue team.
 
 ## Objective
-I would really like to help companies protect themselves from attacks.
+I would really like to help companies protect their information.
 
-My studies have led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My studies have led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Projects
 **Detection and Monitoring Lab**
@@ -17,9 +17,9 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 
 **Incident response lab(WGUD483)**
 
-* In this lab an engineer put in a ticket that the application server used for processing CAD images began to run slow and had high CPU and GPU usage. As the Security professional at this oraganization i was tasked with investigating this incident.
-* After speaking with the engineer it was was found that this occured after updating the application however the email from the vendor was spoofed.
-* After logging into the affected server and taking a look into task manager it was found that a cryptominer was causing the high CPU usage. the attackers were using this server to mine cryptocurrency on their behalf.
+* In this lab an engineer put in a ticket that the application server used for processing CAD images began to run slow and had high CPU and GPU usage. As the Security professional at this organization i was tasked with investigating this incident.
+* After speaking with the engineer it was was found that this event occured after updating the application server however the email from the vendor was spoofed.
+* After logging into the affected server and taking a look into task manager it was found that a cryptominer was causing the high CPU usage. The attackers were using this server to mine cryptocurrency on their behalf.
 * Logged into the SIEM(Wazuh) and found the IP address and port number of the malicious traffic
 * On the affected server the attackers disabled defender reason why the application wasnt detected. I went into group policy and renabled defender and turned on virus scanning and protection.
 * I ran a scan which picked up the XMRig miner and removed the application
