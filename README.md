@@ -15,7 +15,7 @@ My studies have led me to develop a passion for cybersecurity, and I am now eage
 * Configured Windows Server, Splunk (SIEM), Kali Linux, and Windows 10 in the lab environment.
 * Performed brute-force attacks using Kali Linux’s Crowbar and analyzed logs in Splunk to detect and respond to failed and successful login attempts.
 
-**Incident response lab(WGUD483)**
+**Incident response lab(WGU483)**
 
 * In this lab an engineer put in a ticket that the application server used for processing CAD images began to run slow and had high CPU and GPU usage. As the Security professional at this organization i was tasked with investigating this incident.
 * After speaking with the engineer it was found that this event occurred after updating the application server however the email from the vendor was spoofed.
